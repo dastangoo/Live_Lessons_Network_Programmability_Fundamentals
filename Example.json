@@ -1,0 +1,9 @@
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "certificates": [
+    "CCNA R/S",
+    "CCNP R/S",
+    "CCIE R/S"
+  ]
+}
