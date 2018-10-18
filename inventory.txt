@@ -1,0 +1,7 @@
+Cisco 3750 Catalyst Swtich
+Cisco 2960 Catalyst Swtich
+Cisc 2911 Router
+Cisco 7965G IP Phone
+Catalyst 3550 Switch
+CUE
+Cisco 9971 IP Phone
