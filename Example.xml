@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vlan voice="300">
+  <name>VOICE_VLAN</name>
+  <!-- Treated with high priority. -->
+</vlan>
