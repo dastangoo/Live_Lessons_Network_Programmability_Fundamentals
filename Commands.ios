@@ -1,0 +1,12 @@
+ip access-list extended APIC-EM
+  deny host 10.10.20.66 host 10.10.20.70 eq 22
+  permit  ip any any
+!
+int g0/0/1
+  ip access-group APIC-EM in
+!
+show class-map
+!
+show policy-map
+!
+show policy-map interface
