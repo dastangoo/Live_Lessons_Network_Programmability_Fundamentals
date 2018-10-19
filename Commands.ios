@@ -1,0 +1,11 @@
+ip domain-name test.local
+!
+crypto key generate rsa
+!
+line vty 0 15
+  transport input ssh
+!
+copy run start
+!
+show vlan
+
