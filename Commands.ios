@@ -1,0 +1,6 @@
+tenant DEMO-1-TENANT
+  vrf context DEMO-1-VRF
+!
+show tenant
+!
+show vrf
